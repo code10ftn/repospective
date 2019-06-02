@@ -1,0 +1,3 @@
+Best params: {'doc_topic_prior': 0.05, 'n_components': 50, 'topic_word_prior': 0.1}
+Best score Score: -899.5682761198364
+Model Perplexity: 892.5904406896575
